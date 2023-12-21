@@ -10,7 +10,7 @@
 				<figure class="caixa">
 					<div class="thumb"><img src="<?php URL_BASE?>assets/img/foto01.png"></div>
 					<figcaption>
-							<strong>Edvaldo Ferreira</strong>
+							<strong>Edvaldo Ferreira de Oliveira</strong>
 							<small><b>Seu tutor nos cursos</b></small>
 							<small>edvaldo@gmail.com</small>
 					</figcaption>
